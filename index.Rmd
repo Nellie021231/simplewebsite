@@ -1,0 +1,10 @@
+---
+title: "A Breif Self-Introduction"
+description: —— NELLIE CHEN
+site: distill::distill_website
+---
+
+# Nellie Chen
+- Name: Nellie (Yinuo) Chen
+- Email: yinuoche@usc.edu
+-![photo](/Users/nelliechen/Desktop/Dr. Lai/p1.jpg)

@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-09-19T12:59:38-07:00"
+    },
+    {
+      "path": "index.html",
+      "title": "A Breif Self-Introduction",
+      "description": "—— NELLIE CHEN",
+      "author": [],
+      "contents": "\nNellie Chen\nName: Nellie (Yinuo) Chen\nEmail: yinuoche@usc.edu\n-\n\n\n\n",
+      "last_modified": "2022-09-19T12:59:39-07:00"
+    }
+  ],
+  "collections": []
+}
