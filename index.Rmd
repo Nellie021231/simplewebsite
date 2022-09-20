@@ -7,17 +7,11 @@ site: distill::distill_website
 # Nellie Chen
 - Name: Nellie (Yinuo) Chen
 - Email: yinuoche@usc.edu
+- Major: Psychology
 -
 ![photo](/Users/nelliechen/Desktop/Dr. Lai/1/p1.jpeg)
 
-library("EBImage")
-f= system.file("Dr.lai","p1.jpeg")
+```{r, out.width = "20%", echo = FALSE}
+knitr::include_graphics("p1.jpeg")
+```
 
-readImage(system.file("images","p1.jpeg", package="EBImage)
-img= readImage(f)
-
-display(img, method="browser")
-
-#width and height of the original image
-dim(x)[1:2]
----
